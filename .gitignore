@@ -37,6 +37,7 @@ Thumbs.db
 # .NET Specific stuff #
 #######################
 *.suo
+*.user
 TestResults/*
 *.pdb
 [Oo]bj/
